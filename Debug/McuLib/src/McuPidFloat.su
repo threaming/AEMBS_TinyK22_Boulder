@@ -1,0 +1,5 @@
+../McuLib/src/McuPidFloat.c:75:6:McuPidFloat_Set_Td	16	static
+../McuLib/src/McuPidFloat.c:95:6:McuPidFloat_Set_Ti	16	static
+../McuLib/src/McuPidFloat.c:115:6:McuPidFloat_Set_K	16	static
+../McuLib/src/McuPidFloat.c:133:6:McuPidFloat_Reset	4	static
+../McuLib/src/McuPidFloat.c:158:6:McuPidFloat_Control	48	static

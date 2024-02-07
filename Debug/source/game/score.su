@@ -1,0 +1,9 @@
+../source/game/score.c:20:6:Score_Init	4	static
+../source/game/score.c:26:6:Score_AddGameScore	16	static
+../source/game/score.c:44:10:Score_GetGameScore	4	static
+../source/game/score.c:47:6:Score_SetHighscore	16	static
+../source/game/score.c:48:6:Score_GetIsNewHighscore	4	static
+../source/game/score.c:49:6:Score_ResetIsNewHighscore	4	static
+../source/game/score.c:52:10:Score_GetHighscore	4	static
+../source/game/score.c:54:6:Score_ResetHighscore	4	static
+../source/game/score.c:55:6:Score_ResetGameScore	4	static

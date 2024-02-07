@@ -1,0 +1,12 @@
+../McuLib/src/McuRingbuffer.c:98:9:McuRingbuffer_Put	24	static
+../McuLib/src/McuRingbuffer.c:133:9:McuRingbuffer_Putn	24	static
+../McuLib/src/McuRingbuffer.c:161:9:McuRingbuffer_Get	24	static
+../McuLib/src/McuRingbuffer.c:196:9:McuRingbuffer_Getn	24	static
+../McuLib/src/McuRingbuffer.c:221:27:McuRingbuffer_NofElements	4	static
+../McuLib/src/McuRingbuffer.c:238:27:McuRingbuffer_NofFreeElements	4	static
+../McuLib/src/McuRingbuffer.c:253:6:McuRingbuffer_Init	4	static
+../McuLib/src/McuRingbuffer.c:270:6:McuRingbuffer_Clear	16	static
+../McuLib/src/McuRingbuffer.c:295:9:McuRingbuffer_Peek	32	static
+../McuLib/src/McuRingbuffer.c:330:9:McuRingbuffer_Compare	24	static
+../McuLib/src/McuRingbuffer.c:379:9:McuRingbuffer_Delete	16	static
+../McuLib/src/McuRingbuffer.c:414:9:McuRingbuffer_Update	32	static

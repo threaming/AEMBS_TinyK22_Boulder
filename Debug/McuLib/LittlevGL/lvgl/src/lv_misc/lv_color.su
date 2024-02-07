@@ -1,0 +1,3 @@
+../McuLib/LittlevGL/lvgl/src/lv_misc/lv_color.h:378:26:lv_color_make	32	static
+../McuLib/LittlevGL/lvgl/src/lv_misc/lv_color.c:46:12:lv_color_hsv_to_rgb	32	static
+../McuLib/LittlevGL/lvgl/src/lv_misc/lv_color.c:114:16:lv_color_rgb_to_hsv	32	static

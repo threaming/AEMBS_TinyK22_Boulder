@@ -1,0 +1,7 @@
+../source/hat/sensor.c:34:13:sensorTask	56	static
+../source/hat/sensor.c:65:6:GetTemp	16	static
+../source/hat/sensor.c:72:6:GetHum	16	static
+../source/hat/sensor.c:80:12:sLock	8	static
+../source/hat/sensor.c:93:12:sUnlock	8	static
+../source/hat/sensor.c:103:6:Sensor_Deinit	8	static
+../source/hat/sensor.c:107:6:Sensor_Init	24	static

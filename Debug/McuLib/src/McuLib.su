@@ -1,0 +1,2 @@
+../McuLib/src/McuLib.c:71:6:McuLib_Init	4	static
+../McuLib/src/McuLib.c:86:6:McuLib_Deinit	4	static

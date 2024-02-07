@@ -1,0 +1,18 @@
+static const uint8_t pixel[] = {
+	0b00000000,
+	0b00000000,
+	0b00111100,
+	0b11111111,
+	0b10100101,
+	0b01111110,
+	0b00111100,
+	0b00011000,
+};
+
+static const TIMAGE myImage = {
+	.width = 8,
+	.height = 8,
+	.size = 8,
+	.pixmap = pixel,
+	.name = "myImage",
+};

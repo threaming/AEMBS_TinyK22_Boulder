@@ -1,0 +1,10 @@
+../source/game/images/boulder_images.c:190:14:BoulderImages_GetPlayer	4	static
+../source/game/images/boulder_images.c:194:14:BoulderImages_GetPlayerAnim0	4	static
+../source/game/images/boulder_images.c:198:14:BoulderImages_GetDirt	4	static
+../source/game/images/boulder_images.c:202:14:BoulderImages_GetMonster	4	static
+../source/game/images/boulder_images.c:206:14:BoulderImages_GetMonsterAnim0	4	static
+../source/game/images/boulder_images.c:210:14:BoulderImages_GetDiamond	4	static
+../source/game/images/boulder_images.c:214:14:BoulderImages_GetDiamondAnim0	4	static
+../source/game/images/boulder_images.c:218:14:BoulderImages_GetDiamondAnim1	4	static
+../source/game/images/boulder_images.c:222:14:BoulderImages_GetBoulder	4	static
+../source/game/images/boulder_images.c:226:14:BoulderImages_GetWall	4	static

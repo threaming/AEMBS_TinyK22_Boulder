@@ -1,0 +1,4 @@
+../McuLib/src/McuHardFault.c:80:6:McuHardFault_HandlerC	16	static
+../McuLib/src/McuHardFault.c:159:6:HardFault_Handler	0	static
+../McuLib/src/McuHardFault.c:206:6:McuHardFault_Deinit	4	static
+../McuLib/src/McuHardFault.c:227:6:McuHardFault_Init	4	static

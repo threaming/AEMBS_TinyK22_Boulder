@@ -1,0 +1,7 @@
+../McuLib/src/McuEvents.c:89:6:McuEvents_SetEvent	24	static
+../McuLib/src/McuEvents.c:112:6:McuEvents_ClearEvent	24	static
+../McuLib/src/McuEvents.c:136:6:McuEvents_GetEvent	16	static
+../McuLib/src/McuEvents.c:157:6:McuEvents_GetClearEvent	24	static
+../McuLib/src/McuEvents.c:183:6:McuEvents_EventsPending	4	static
+../McuLib/src/McuEvents.c:215:6:McuEvents_HandleEvent	16	static
+../McuLib/src/McuEvents.c:246:6:McuEvents_Init	4	static

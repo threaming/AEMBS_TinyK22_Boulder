@@ -1,0 +1,2 @@
+../McuLib/SEGGER_Sysview/McuSystemView.c:108:6:McuSystemView_Init	8	static
+../McuLib/SEGGER_Sysview/McuSystemView.c:414:6:McuSystemView_Deinit	4	static

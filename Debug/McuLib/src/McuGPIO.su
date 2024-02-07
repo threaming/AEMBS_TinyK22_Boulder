@@ -1,0 +1,24 @@
+C:\Users\andre\OneDrive - Hochschule Luzern\00_Modules\FS23_AEMBS\00_Projects\01_AEMBY_tinyK22\drivers/fsl_gpio.h:357:20:GPIO_PortSet	16	static
+C:\Users\andre\OneDrive - Hochschule Luzern\00_Modules\FS23_AEMBS\00_Projects\01_AEMBY_tinyK22\drivers/fsl_gpio.h:372:20:GPIO_PortClear	16	static
+C:\Users\andre\OneDrive - Hochschule Luzern\00_Modules\FS23_AEMBS\00_Projects\01_AEMBY_tinyK22\drivers/fsl_gpio.h:387:20:GPIO_PortToggle	16	static
+C:\Users\andre\OneDrive - Hochschule Luzern\00_Modules\FS23_AEMBS\00_Projects\01_AEMBY_tinyK22\drivers/fsl_gpio.h:410:24:GPIO_PinRead	16	static
+C:\Users\andre\OneDrive - Hochschule Luzern\00_Modules\FS23_AEMBS\00_Projects\01_AEMBY_tinyK22\drivers/fsl_port.h:458:20:PORT_SetPinMux	24	static
+../McuLib/src/McuGPIO.c:104:6:McuGPIO_GetDefaultConfig	16	static
+../McuLib/src/McuGPIO.c:109:13:McuGPIO_ConfigurePin	24	static
+../McuLib/src/McuGPIO.c:190:6:McuGPIO_SetAsInput	24	static
+../McuLib/src/McuGPIO.c:198:6:McuGPIO_SetAsOutput	24	static
+../McuLib/src/McuGPIO.c:206:6:McuGPIO_IsInput	24	static
+../McuLib/src/McuGPIO.c:211:6:McuGPIO_IsOutput	24	static
+../McuLib/src/McuGPIO.c:226:18:McuGPIO_InitGPIO	24	static
+../McuLib/src/McuGPIO.c:318:18:McuGPIO_DeinitGPIO	16	static
+../McuLib/src/McuGPIO.c:328:6:McuGPIO_SetLow	24	static
+../McuLib/src/McuGPIO.c:354:6:McuGPIO_SetHigh	24	static
+../McuLib/src/McuGPIO.c:380:6:McuGPIO_Toggle	24	static
+../McuLib/src/McuGPIO.c:411:6:McuGPIO_SetValue	24	static
+../McuLib/src/McuGPIO.c:460:6:McuGPIO_GetValue	16	static
+../McuLib/src/McuGPIO.c:464:6:McuGPIO_IsHigh	24	static
+../McuLib/src/McuGPIO.c:490:6:McuGPIO_IsLow	16	static
+../McuLib/src/McuGPIO.c:494:6:McuGPIO_GetPinStatusString	32	static
+../McuLib/src/McuGPIO.c:527:6:McuGPIO_SetPullResistor	24	static
+../McuLib/src/McuGPIO.c:649:6:McuGPIO_Init	4	static
+../McuLib/src/McuGPIO.c:653:6:McuGPIO_Deinit	4	static

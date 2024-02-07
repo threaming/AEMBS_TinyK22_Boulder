@@ -1,0 +1,6 @@
+../McuLib/src/McuTrigger.c:116:6:McuTrigger_AddTrigger	24	static
+../McuLib/src/McuTrigger.c:135:13:CheckCallbacks	24	static
+../McuLib/src/McuTrigger.c:168:6:McuTrigger_AddTick	16	static
+../McuLib/src/McuTrigger.c:194:6:McuTrigger_Init	16	static
+../McuLib/src/McuTrigger.c:215:6:McuTrigger_AnyTriggerPending	16	static
+../McuLib/src/McuTrigger.c:246:6:McuTrigger_TriggerPending	16	static

@@ -1,0 +1,5 @@
+../McuLib/fonts/McuFontHelv12Normal.c:3192:17:McuFontHelv12Normal_GetFontChar	16	static
+../McuLib/fonts/McuFontHelv12Normal.c:3208:9:McuFontHelv12Normal_GetBoxHeight	4	static
+../McuLib/fonts/McuFontHelv12Normal.c:3225:18:McuFontHelv12Normal_GetFont	4	static
+../McuLib/fonts/McuFontHelv12Normal.c:3282:6:McuFontHelv12Normal_Deinit	4	static
+../McuLib/fonts/McuFontHelv12Normal.c:3297:6:McuFontHelv12Normal_Init	4	static

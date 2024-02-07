@@ -1,0 +1,10 @@
+../McuLib/src/McuGenericSWSPI.c:112:6:McuGenericSWSPI_SetFastMode	4	static
+../McuLib/src/McuGenericSWSPI.c:127:6:McuGenericSWSPI_SetSlowMode	4	static
+../McuLib/src/McuGenericSWSPI.c:150:9:McuGenericSWSPI_RecvChar	16	static
+../McuLib/src/McuGenericSWSPI.c:177:6:McuGenericSWSPI_Write_ReadDummy	24	static
+../McuLib/src/McuGenericSWSPI.c:207:9:McuGenericSWSPI_SendChar	24	static
+../McuLib/src/McuGenericSWSPI.c:242:9:McuGenericSWSPI_CharsInRxBuf	4	static
+../McuLib/src/McuGenericSWSPI.c:282:9:McuGenericSWSPI_SetShiftClockPolarity	16	static
+../McuLib/src/McuGenericSWSPI.c:307:9:McuGenericSWSPI_SetIdleClockPolarity	16	static
+../McuLib/src/McuGenericSWSPI.c:323:6:McuGenericSWSPI_Init	8	static
+../McuLib/src/McuGenericSWSPI.c:349:6:McuGenericSWSPI_Deinit	8	static

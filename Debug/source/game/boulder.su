@@ -1,0 +1,16 @@
+../source/game/boulder.c:56:6:Boulder_SetTileAtTilePos	16	static
+../source/game/boulder.c:60:16:Boulder_GetTileFromTilePos	16	static
+../source/game/boulder.c:74:16:Boulder_GetTileFromDisplayPos	24	static
+../source/game/boulder.c:92:8:Boulder_GetTileToDisplayXPos	24	static
+../source/game/boulder.c:105:8:Boulder_GetTileToDisplayYPos	24	static
+../source/game/boulder.c:118:5:Boulder_DisplayPosToTilePosX	16	static
+../source/game/boulder.c:122:5:Boulder_DisplayPosToTilePosY	16	static
+../source/game/boulder.c:126:18:GetSpriteInTile	32	static
+../source/game/boulder.c:137:13:isMoveableBoulder	32	static
+../source/game/boulder.c:172:11:Boulder_GetSpriteInTileFromList	40	static
+../source/game/boulder.c:180:11:Boulder_GetSpriteInTileFromListIterated	40	static
+../source/game/boulder.c:197:6:Boulder_OnPlayerMove	72	static
+../source/game/boulder.c:281:6:Boulder_CreateLevel	40	static
+../source/game/boulder.c:307:6:Boulder_PaintTiles	40	static
+../source/game/boulder.c:347:6:Boulder_Deinit	4	static
+../source/game/boulder.c:350:6:Boulder_Init	4	static

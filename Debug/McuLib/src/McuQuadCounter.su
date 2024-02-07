@@ -1,0 +1,9 @@
+../McuLib/src/McuQuadCounter.c:248:6:McuQuadCounter_SetPos	16	static
+../McuLib/src/McuQuadCounter.c:264:29:McuQuadCounter_GetPos	4	static
+../McuLib/src/McuQuadCounter.c:280:9:McuQuadCounter_GetVal	16	static
+../McuLib/src/McuQuadCounter.c:303:6:McuQuadCounter_Sample	16	static
+../McuLib/src/McuQuadCounter.c:336:10:McuQuadCounter_NofErrors	4	static
+../McuLib/src/McuQuadCounter.c:355:6:McuQuadCounter_Deinit	4	static
+../McuLib/src/McuQuadCounter.c:370:6:McuQuadCounter_Init	16	static
+../McuLib/src/McuQuadCounter.c:409:9:McuQuadCounter_ParseCommand	32	static
+../McuLib/src/McuQuadCounter.c:477:9:McuQuadCounter_SwapPins	16	static

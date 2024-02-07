@@ -1,0 +1,2 @@
+../McuLib/LittlevGL/lvgl/src/lv_misc/lv_utils.c:44:8:lv_utils_num_to_str	24	static
+../McuLib/LittlevGL/lvgl/src/lv_misc/lv_utils.c:92:8:lv_utils_bsearch	32	static

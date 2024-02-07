@@ -1,0 +1,15 @@
+C:\Users\andre\OneDrive - Hochschule Luzern\00_Modules\FS23_AEMBS\00_Projects\01_AEMBY_tinyK22\drivers/fsl_gpio.h:357:20:GPIO_PortSet	16	static
+C:\Users\andre\OneDrive - Hochschule Luzern\00_Modules\FS23_AEMBS\00_Projects\01_AEMBY_tinyK22\drivers/fsl_gpio.h:372:20:GPIO_PortClear	16	static
+C:\Users\andre\OneDrive - Hochschule Luzern\00_Modules\FS23_AEMBS\00_Projects\01_AEMBY_tinyK22\drivers/fsl_gpio.h:387:20:GPIO_PortToggle	16	static
+C:\Users\andre\OneDrive - Hochschule Luzern\00_Modules\FS23_AEMBS\00_Projects\01_AEMBY_tinyK22\drivers/fsl_gpio.h:410:24:GPIO_PinRead	16	static
+../McuLib/src/C11.c:175:6:C11_ClrVal	8	static
+../McuLib/src/C11.c:206:6:C11_SetVal	8	static
+../McuLib/src/C11.c:237:6:C11_NegVal	8	static
+../McuLib/src/C11.c:278:6:C11_GetVal	8	static
+../McuLib/src/C11.c:313:6:C11_GetDir	4	static
+../McuLib/src/C11.c:330:6:C11_SetDir	16	static
+../McuLib/src/C11.c:349:6:C11_SetInput	8	static
+../McuLib/src/C11.c:381:6:C11_SetOutput	8	static
+../McuLib/src/C11.c:416:6:C11_PutVal	16	static
+../McuLib/src/C11.c:459:6:C11_Init	8	static
+../McuLib/src/C11.c:526:6:C11_Deinit	4	static

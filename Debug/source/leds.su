@@ -1,0 +1,6 @@
+C:\Users\andre\OneDrive - Hochschule Luzern\00_Modules\FS23_AEMBS\00_Projects\01_AEMBY_tinyK22\drivers/fsl_clock.h:627:20:CLOCK_EnableClock	24	static
+../source/leds.c:33:6:LEDS_On	16	static
+../source/leds.c:63:6:LEDS_Off	16	static
+../source/leds.c:93:6:LEDS_Neg	16	static
+../source/leds.c:123:6:LEDS_Init	32	static
+../source/leds.c:202:6:LED_Deinit	8	static

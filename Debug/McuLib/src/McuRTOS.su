@@ -1,0 +1,8 @@
+../McuLib/src/McuRTOS.c:310:16:PrintTaskList	240	static
+../McuLib/src/McuRTOS.c:587:16:PrintStatus	32	static
+../McuLib/src/McuRTOS.c:611:16:PrintHelp	16	static
+../McuLib/src/McuRTOS.c:2271:9:McuRTOS_ParseCommand	24	static
+../McuLib/src/McuRTOS.c:2298:6:McuRTOS_Init	8	static
+../McuLib/src/McuRTOS.c:4872:6:McuRTOS_Deinit	4	static
+../McuLib/src/McuRTOS.c:5434:6:McuRTOS_AppConfigureTimerForRuntimeStats	4	static
+../McuLib/src/McuRTOS.c:5457:10:McuRTOS_AppGetRuntimeCounterValueFromISR	8	static

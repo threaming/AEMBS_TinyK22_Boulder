@@ -1,0 +1,13 @@
+../McuLib/src/McuRB.c:34:6:McuRB_GetDefaultconfig	24	static
+../McuLib/src/McuRB.c:43:16:McuRB_InitRB	24	static
+../McuLib/src/McuRB.c:67:16:McuRB_DeinitRB	24	static
+../McuLib/src/McuRB.c:85:8:McuRB_NofElements	24	static
+../McuLib/src/McuRB.c:92:8:McuRB_NofFreeElements	24	static
+../McuLib/src/McuRB.c:99:6:McuRB_Clear	24	static
+../McuLib/src/McuRB.c:111:9:McuRB_Put	32	static
+../McuLib/src/McuRB.c:132:9:McuRB_Putn	40	static
+../McuLib/src/McuRB.c:148:9:McuRB_Get	32	static
+../McuLib/src/McuRB.c:169:9:McuRB_Peek	48	static
+../McuLib/src/McuRB.c:190:9:McuRB_Compare	72	dynamic
+../McuLib/src/McuRB.c:214:6:McuRB_Deinit	4	static
+../McuLib/src/McuRB.c:218:6:McuRB_Init	4	static

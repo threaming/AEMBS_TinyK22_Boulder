@@ -1,0 +1,2 @@
+../McuLib/src/McuCRC_CreateTable.c:19:33:McuCRC_GenerateLookUpTable	64	static
+../McuLib/src/McuCRC_CreateTable.c:144:10:McuCRC_CalculateTableEntry	32	static

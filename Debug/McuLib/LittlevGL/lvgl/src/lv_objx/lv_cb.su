@@ -1,0 +1,14 @@
+../McuLib/LittlevGL/lvgl/src/lv_objx/../lv_core/../lv_font/lv_font.h:110:23:lv_font_get_line_height	16	static
+../McuLib/LittlevGL/lvgl/src/lv_objx/lv_cont.h:132:20:lv_cont_set_fit	24	static
+../McuLib/LittlevGL/lvgl/src/lv_objx/lv_btn.h:151:20:lv_btn_set_layout	16	static
+../McuLib/LittlevGL/lvgl/src/lv_objx/lv_btn.h:188:20:lv_btn_set_fit	16	static
+../McuLib/LittlevGL/lvgl/src/lv_objx/lv_label.h:285:34:lv_label_get_style	16	static
+../McuLib/LittlevGL/lvgl/src/lv_objx/lv_cb.c:51:12:lv_cb_create	32	static
+../McuLib/LittlevGL/lvgl/src/lv_objx/lv_cb.c:127:6:lv_cb_set_text	24	static
+../McuLib/LittlevGL/lvgl/src/lv_objx/lv_cb.c:139:6:lv_cb_set_static_text	24	static
+../McuLib/LittlevGL/lvgl/src/lv_objx/lv_cb.c:151:6:lv_cb_set_style	32	static
+../McuLib/LittlevGL/lvgl/src/lv_objx/lv_cb.c:180:14:lv_cb_get_text	24	static
+../McuLib/LittlevGL/lvgl/src/lv_objx/lv_cb.c:192:20:lv_cb_get_style	24	static
+../McuLib/LittlevGL/lvgl/src/lv_objx/lv_cb.c:223:13:lv_cb_design	40	static
+../McuLib/LittlevGL/lvgl/src/lv_objx/lv_cb.c:256:13:lv_bullet_design	48	static
+../McuLib/LittlevGL/lvgl/src/lv_objx/lv_cb.c:296:17:lv_cb_signal	56	static

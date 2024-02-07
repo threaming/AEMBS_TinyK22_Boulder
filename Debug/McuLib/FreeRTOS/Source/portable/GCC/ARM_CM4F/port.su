@@ -1,0 +1,17 @@
+../McuLib/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:358:6:prvTaskExitError	4	static
+../McuLib/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:395:14:pxPortInitialiseStack	24	static
+../McuLib/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:709:13:vPortInitTickTimer	4	static
+../McuLib/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:768:13:vPortStartTickTimer	4	static
+../McuLib/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:772:6:vPortStopTickTimer	4	static
+../McuLib/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:777:6:vPortEnableVFP	4	static
+../McuLib/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:816:12:xPortStartScheduler	24	static
+../McuLib/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:908:6:vPortEndScheduler	8	static
+../McuLib/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:922:6:vPortEnterCritical	4	static
+../McuLib/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:950:6:vPortExitCritical	4	static
+../McuLib/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:962:6:vPortYieldFromISR	4	static
+../McuLib/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:972:14:uxGetTickCounterValue	16	static
+../McuLib/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:1029:6:SysTick_Handler	8	static
+../McuLib/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:1129:6:vPortStartFirstTask	16	static
+../McuLib/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:1249:30:SVC_Handler	0	static
+../McuLib/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:1387:36:PendSV_Handler	0	static
+../McuLib/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c:1636:8:vPortValidateInterruptPriority	16	static

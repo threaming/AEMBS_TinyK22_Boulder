@@ -1,0 +1,5 @@
+../McuLib/fonts/McuFontCour12Normal.c:2880:17:McuFontCour12Normal_GetFontChar	16	static
+../McuLib/fonts/McuFontCour12Normal.c:2896:9:McuFontCour12Normal_GetBoxHeight	4	static
+../McuLib/fonts/McuFontCour12Normal.c:2913:18:McuFontCour12Normal_GetFont	4	static
+../McuLib/fonts/McuFontCour12Normal.c:2970:6:McuFontCour12Normal_Deinit	4	static
+../McuLib/fonts/McuFontCour12Normal.c:2985:6:McuFontCour12Normal_Init	4	static

@@ -1,0 +1,4 @@
+../board/cycles.c:41:6:Cycles_LogTime	88	static
+../board/cycles.c:88:6:Cycles_Deinit	4	static
+../board/cycles.c:92:13:Cycles_Test_NOP	8	static
+../board/cycles.c:121:6:Cycles_Init	8	static

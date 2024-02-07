@@ -1,0 +1,8 @@
+../source/game/game.c:51:6:Game_SendEvent	16	static
+../source/game/game.c:60:13:GameUpdater2000	40	static
+../source/game/game.c:88:13:waitForKeyPress	24	static
+../source/game/game.c:110:6:Game_OnButtonEvent	24	static
+../source/game/game.c:122:6:Game_ScoreEvent	24	static
+../source/game/game.c:133:13:gameTask	56	static
+../source/game/game.c:297:6:Game_Init	40	static
+../source/game/game.c:350:6:Game_Deinit	4	static

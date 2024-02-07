@@ -1,0 +1,3 @@
+C:\Users\andre\OneDrive - Hochschule Luzern\00_Modules\FS23_AEMBS\00_Projects\01_AEMBY_tinyK22\drivers/fsl_gpio.h:387:20:GPIO_PortToggle	16	static
+../source/blinky.c:15:6:delay	16	static
+../source/blinky.c:23:6:Blinky_Run	8	static

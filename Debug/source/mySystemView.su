@@ -1,0 +1,3 @@
+../source/mySystemView.c:12:6:myInterrupt	8	static
+../source/mySystemView.c:22:6:mySystemView_Test	8	static
+../source/mySystemView.c:36:6:mySystemView_Init	8	static

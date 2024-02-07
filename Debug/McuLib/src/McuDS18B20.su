@@ -1,0 +1,16 @@
+../McuLib/src/McuDS18B20.c:140:16:McuDS18B20_ReadScratchpad	24	static
+../McuLib/src/McuDS18B20.c:179:16:PrintStatus	80	static
+../McuLib/src/McuDS18B20.c:269:16:PrintHelp	16	static
+../McuLib/src/McuDS18B20.c:298:9:McuDS18B20_ParseCommand	96	static
+../McuLib/src/McuDS18B20.c:451:9:McuDS18B20_StartConversion	24	static
+../McuLib/src/McuDS18B20.c:506:9:McuDS18B20_SetResolution	24	static
+../McuLib/src/McuDS18B20.c:559:9:McuDS18B20_ReadTemperature	32	static
+../McuLib/src/McuDS18B20.c:591:9:McuDS18B20_ReadResolution	32	static
+../McuLib/src/McuDS18B20.c:624:9:McuDS18B20_GetTemperatureRaw	16	static
+../McuLib/src/McuDS18B20.c:657:9:McuDS18B20_GetTemperatureFloat	32	static
+../McuLib/src/McuDS18B20.c:692:6:McuDS18B20_isBusy	4	static
+../McuLib/src/McuDS18B20.c:713:9:McuDS18B20_GetRomCode	16	static
+../McuLib/src/McuDS18B20.c:744:9:McuDS18B20_ReadRom	24	static
+../McuLib/src/McuDS18B20.c:795:6:McuDS18B20_Deinit	4	static
+../McuLib/src/McuDS18B20.c:811:6:McuDS18B20_Init	8	static
+../McuLib/src/McuDS18B20.c:839:9:McuDS18B20_SearchAndAssignROMCodes	32	static

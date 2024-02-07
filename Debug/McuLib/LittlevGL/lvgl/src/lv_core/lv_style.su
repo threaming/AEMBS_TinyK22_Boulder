@@ -1,0 +1,5 @@
+../McuLib/LittlevGL/lvgl/src/lv_core/../lv_misc/lv_color.h:326:26:lv_color_mix	24	static
+../McuLib/LittlevGL/lvgl/src/lv_core/../lv_misc/lv_color.h:378:26:lv_color_make	32	static
+../McuLib/LittlevGL/lvgl/src/lv_core/lv_style.c:67:6:lv_style_init	16	static
+../McuLib/LittlevGL/lvgl/src/lv_core/lv_style.c:220:6:lv_style_copy	16	static
+../McuLib/LittlevGL/lvgl/src/lv_core/lv_style.c:232:6:lv_style_mix	40	static

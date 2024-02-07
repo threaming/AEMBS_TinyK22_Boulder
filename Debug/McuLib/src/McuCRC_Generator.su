@@ -1,0 +1,8 @@
+../McuLib/src/McuCRC_Generator.c:17:6:McuCRC_Init	16	static
+../McuLib/src/McuCRC_Generator.c:23:6:McuCRC_CalculateBlock	32	static
+../McuLib/src/McuCRC_Generator.c:33:6:McuCRC_CalculateNextValue	32	static
+../McuLib/src/McuCRC_Generator.c:62:10:McuCRC_GetCrcValue	24	static
+../McuLib/src/McuCRC_Generator.c:74:9:McuCRC_CalculateWithTableCRC8	40	static
+../McuLib/src/McuCRC_Generator.c:94:10:McuCRC_CalculateWithTableCRC16	40	static
+../McuLib/src/McuCRC_Generator.c:124:10:McuCRC_CalculateWithTableCRC32	40	static
+../McuLib/src/McuCRC_Generator.c:154:10:McuCRC_Reflect	24	static

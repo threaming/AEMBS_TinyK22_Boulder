@@ -1,0 +1,14 @@
+../McuLib/src/McuXFormat.c:360:13:ulong2a	24	static
+../McuLib/src/McuXFormat.c:446:13:putCharIntoBufMaxLen	24	static
+../McuLib/src/McuXFormat.c:454:5:xsnprintf	40	static
+../McuLib/src/McuXFormat.c:504:10:McuXFormat_xformat	24	static
+../McuLib/src/McuXFormat.c:539:17:xstrlen	24	static
+../McuLib/src/McuXFormat.c:549:17:outBuffer	40	static
+../McuLib/src/McuXFormat.c:571:17:outChars	32	static
+../McuLib/src/McuXFormat.c:585:13:putCharIntoBuf	24	static
+../McuLib/src/McuXFormat.c:590:5:xsprintf	32	static
+../McuLib/src/McuXFormat.c:651:10:McuXFormat_xvformat	152	static
+../McuLib/src/McuXFormat.c:1134:5:McuXFormat_xsprintf	28	static
+../McuLib/src/McuXFormat.c:1164:5:McuXFormat_xsnprintf	24	static
+../McuLib/src/McuXFormat.c:1185:6:McuXFormat_Init	4	static
+../McuLib/src/McuXFormat.c:1200:6:McuXFormat_Deinit	4	static

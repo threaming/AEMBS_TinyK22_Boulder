@@ -1,0 +1,3 @@
+../McuLib/src/McuDebounce.c:12:6:McuDbnc_Process	32	static
+../McuLib/src/McuDebounce.c:131:6:McuDbnc_Deinit	4	static
+../McuLib/src/McuDebounce.c:132:6:McuDbnc_Init	4	static

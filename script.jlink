@@ -1,0 +1,7 @@
+ExitOnError 1
+r
+h
+loadfile "C:\Users\andre\Downloads\AEMBS_SW02_Game\AEMBS_SW02_Game\AEMBS_tinyK22_Game_HAT_V7.hex"
+qc
+
+qc

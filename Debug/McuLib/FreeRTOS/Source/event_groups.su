@@ -1,0 +1,14 @@
+../McuLib/FreeRTOS/Source/event_groups.c:146:24:xEventGroupCreate	16	static
+../McuLib/FreeRTOS/Source/event_groups.c:192:13:xEventGroupSync	48	static
+../McuLib/FreeRTOS/Source/event_groups.c:315:13:xEventGroupWaitBits	56	static
+../McuLib/FreeRTOS/Source/event_groups.c:471:13:xEventGroupClearBits	24	static
+../McuLib/FreeRTOS/Source/event_groups.c:501:16:xEventGroupClearBitsFromISR	24	static
+../McuLib/FreeRTOS/Source/event_groups.c:515:13:xEventGroupGetBitsFromISR	32	static
+../McuLib/FreeRTOS/Source/event_groups.c:531:13:xEventGroupSetBits	56	static
+../McuLib/FreeRTOS/Source/event_groups.c:626:6:vEventGroupDelete	24	static
+../McuLib/FreeRTOS/Source/event_groups.c:670:6:vEventGroupSetBitsCallback	16	static
+../McuLib/FreeRTOS/Source/event_groups.c:679:6:vEventGroupClearBitsCallback	16	static
+../McuLib/FreeRTOS/Source/event_groups.c:686:19:prvTestWaitCondition	32	static
+../McuLib/FreeRTOS/Source/event_groups.c:725:16:xEventGroupSetBitsFromISR	32	static
+../McuLib/FreeRTOS/Source/event_groups.c:742:17:uxEventGroupGetNumber	24	static
+../McuLib/FreeRTOS/Source/event_groups.c:764:10:vEventGroupSetNumber	16	static

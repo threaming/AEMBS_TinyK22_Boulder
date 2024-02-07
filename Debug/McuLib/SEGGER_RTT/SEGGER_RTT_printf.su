@@ -1,0 +1,6 @@
+../McuLib/SEGGER_RTT/SEGGER_RTT_printf.c:114:13:_StoreChar	24	static
+../McuLib/SEGGER_RTT/SEGGER_RTT_printf.c:139:13:_PrintUnsigned	48	static
+../McuLib/SEGGER_RTT/SEGGER_RTT_printf.c:229:13:_PrintInt	40	static
+../McuLib/SEGGER_RTT/SEGGER_RTT_printf.c:324:5:SEGGER_RTT_vprintf	144	static
+../McuLib/SEGGER_RTT/SEGGER_RTT_printf.c:502:5:SEGGER_RTT_printf	28	static
+../McuLib/SEGGER_RTT/SEGGER_RTT_printf.c:543:5:SEGGER_printf	16	static

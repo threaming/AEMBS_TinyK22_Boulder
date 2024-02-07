@@ -1,0 +1,11 @@
+../McuLib/src/McuSHT31.c:40:16:SHT31_GenerateCRC	24	static
+../McuLib/src/McuSHT31.c:59:16:SHT31_WriteCommand	32	static
+../McuLib/src/McuSHT31.c:67:9:SHT31_ReadStatus	32	static
+../McuLib/src/McuSHT31.c:88:9:McuSHT31_Heater	16	static
+../McuLib/src/McuSHT31.c:92:9:McuSHT31_Reset	8	static
+../McuLib/src/McuSHT31.c:96:9:McuSHT31_ReadTempHum	64	static
+../McuLib/src/McuSHT31.c:156:16:PrintStatus	56	static
+../McuLib/src/McuSHT31.c:182:16:PrintHelp	16	static
+../McuLib/src/McuSHT31.c:190:9:McuSHT31_ParseCommand	32	static
+../McuLib/src/McuSHT31.c:209:6:McuSHT31_Init	4	static
+../McuLib/src/McuSHT31.c:213:6:McuSHT31_Deinit	4	static

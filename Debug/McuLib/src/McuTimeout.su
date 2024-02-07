@@ -1,0 +1,7 @@
+../McuLib/src/McuTimeout.c:95:26:McuTimeout_GetCounter	24	static
+../McuLib/src/McuTimeout.c:132:6:McuTimeout_LeaveCounter	24	static
+../McuLib/src/McuTimeout.c:160:6:McuTimeout_CounterExpired	24	static
+../McuLib/src/McuTimeout.c:185:6:McuTimeout_AddTick	16	static
+../McuLib/src/McuTimeout.c:209:6:McuTimeout_Init	16	static
+../McuLib/src/McuTimeout.c:232:24:McuTimeout_Value	24	static
+../McuLib/src/McuTimeout.c:264:24:McuTimeout_SetCounter	24	static

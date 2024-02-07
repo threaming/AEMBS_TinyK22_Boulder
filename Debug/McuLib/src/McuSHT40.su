@@ -1,0 +1,10 @@
+../McuLib/src/McuSHT40.c:44:16:SHT40_GenerateCRC	24	static
+../McuLib/src/McuSHT40.c:63:16:SHT40_WriteCommand	32	static
+../McuLib/src/McuSHT40.c:71:9:SHT40_ReadSerialNumber	48	static
+../McuLib/src/McuSHT40.c:94:9:McuSHT40_Reset	8	static
+../McuLib/src/McuSHT40.c:98:9:McuSHT40_ReadTempHum	64	static
+../McuLib/src/McuSHT40.c:141:16:PrintStatus	64	static
+../McuLib/src/McuSHT40.c:179:16:PrintHelp	16	static
+../McuLib/src/McuSHT40.c:187:9:McuSHT40_ParseCommand	32	static
+../McuLib/src/McuSHT40.c:206:6:McuSHT40_Init	4	static
+../McuLib/src/McuSHT40.c:210:6:McuSHT40_Deinit	4	static

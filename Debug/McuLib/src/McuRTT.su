@@ -1,0 +1,8 @@
+../McuLib/src/McuRTT.c:253:6:McuRTT_StdIOKeyPressed	8	static
+../McuLib/src/McuRTT.c:272:6:McuRTT_StdIOReadChar	24	static
+../McuLib/src/McuRTT.c:296:6:McuRTT_StdIOSendChar	16	static
+../McuLib/src/McuRTT.c:351:9:McuRTT_RecvChar	24	static
+../McuLib/src/McuRTT.c:377:9:McuRTT_SendChar	24	static
+../McuLib/src/McuRTT.c:539:6:McuRTT_Deinit	4	static
+../McuLib/src/McuRTT.c:554:6:McuRTT_Init	8	static
+../McuLib/src/McuRTT.c:570:28:McuRTT_GetStdio	4	static

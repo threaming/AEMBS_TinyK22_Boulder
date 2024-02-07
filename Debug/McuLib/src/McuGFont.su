@@ -1,0 +1,5 @@
+../McuLib/src/McuGFont.c:2471:17:McuGFont_GetFontChar	16	static
+../McuLib/src/McuGFont.c:2487:9:McuGFont_GetBoxHeight	4	static
+../McuLib/src/McuGFont.c:2504:18:McuGFont_GetFont	4	static
+../McuLib/src/McuGFont.c:2561:6:McuGFont_Deinit	4	static
+../McuLib/src/McuGFont.c:2576:6:McuGFont_Init	4	static

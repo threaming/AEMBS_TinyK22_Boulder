@@ -1,0 +1,2 @@
+../McuLib/src/McuCriticalSection.c:127:6:McuCriticalSection_Deinit	4	static
+../McuLib/src/McuCriticalSection.c:142:6:McuCriticalSection_Init	4	static

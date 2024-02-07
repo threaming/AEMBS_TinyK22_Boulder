@@ -1,0 +1,5 @@
+../McuLib/FreeRTOS/Source/list.c:48:6:vListInitialise	16	static
+../McuLib/FreeRTOS/Source/list.c:73:6:vListInitialiseItem	16	static
+../McuLib/FreeRTOS/Source/list.c:85:6:vListInsertEnd	24	static
+../McuLib/FreeRTOS/Source/list.c:115:6:vListInsert	24	static
+../McuLib/FreeRTOS/Source/list.c:183:13:uxListRemove	24	static

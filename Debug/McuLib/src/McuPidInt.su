@@ -1,0 +1,4 @@
+../McuLib/src/McuPidInt.c:104:9:McuPidInt_PID	32	static
+../McuLib/src/McuPidInt.c:142:6:McuPidInt_Control	4	static
+../McuLib/src/McuPidInt.c:159:6:McuPidInt_SetPoint	16	static
+../McuLib/src/McuPidInt.c:175:9:McuPidInt_GetPoint	4	static

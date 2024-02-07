@@ -1,0 +1,10 @@
+../source/game/gameView.c:52:13:Show1Liner	40	static
+../source/game/gameView.c:89:13:Show2Liner	40	static
+../source/game/gameView.c:125:13:PaintGamePlayScreen	16	static
+../source/game/gameView.c:156:13:PrintScore	80	static
+../source/game/gameView.c:230:6:ShowTemperature	64	static
+../source/game/gameView.c:252:6:ShowScore	64	static
+../source/game/gameView.c:272:6:Game_ShowScreen	32	static
+../source/game/gameView.c:354:6:Game_ClearScreen	8	static
+../source/game/gameView.c:363:6:Game_ViewInit	4	static
+../source/game/gameView.c:373:6:Game_ViewDeinit	4	static

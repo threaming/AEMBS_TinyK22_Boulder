@@ -1,0 +1,16 @@
+C:\Users\andre\OneDrive - Hochschule Luzern\00_Modules\FS23_AEMBS\00_Projects\01_AEMBY_tinyK22\CMSIS/core_cm4.h:1684:22:__NVIC_EnableIRQ	16	static
+C:\Users\andre\OneDrive - Hochschule Luzern\00_Modules\FS23_AEMBS\00_Projects\01_AEMBY_tinyK22\CMSIS/core_cm4.h:1722:22:__NVIC_DisableIRQ	16	static
+C:\Users\andre\OneDrive - Hochschule Luzern\00_Modules\FS23_AEMBS\00_Projects\01_AEMBY_tinyK22\CMSIS/core_cm4.h:1814:22:__NVIC_SetPriority	16	static
+C:\Users\andre\OneDrive - Hochschule Luzern\00_Modules\FS23_AEMBS\00_Projects\01_AEMBY_tinyK22\drivers/fsl_clock.h:627:20:CLOCK_EnableClock	24	static
+C:\Users\andre\OneDrive - Hochschule Luzern\00_Modules\FS23_AEMBS\00_Projects\01_AEMBY_tinyK22\drivers/fsl_common_arm.h:499:24:EnableIRQ	24	static
+C:\Users\andre\OneDrive - Hochschule Luzern\00_Modules\FS23_AEMBS\00_Projects\01_AEMBY_tinyK22\drivers/fsl_common_arm.h:543:24:DisableIRQ	24	static
+C:\Users\andre\OneDrive - Hochschule Luzern\00_Modules\FS23_AEMBS\00_Projects\01_AEMBY_tinyK22\drivers/fsl_port.h:527:20:PORT_SetPinInterruptConfig	24	static
+../source/buttons/buttons.c:32:15:BTN_RotateButton	16	static
+../source/buttons/buttons.c:49:6:BTN_IsPressed	16	static
+../source/buttons/buttons.c:54:10:BTN_GetButtons	16	static
+../source/buttons/buttons.c:84:13:SysViewLogStart	8	static
+../source/buttons/buttons.c:92:13:SysViewLogEnd	8	static
+../source/buttons/buttons.c:99:6:PORTA_IRQHandler	24	static
+../source/buttons/buttons.c:127:6:PORTB_IRQHandler	24	static
+../source/buttons/buttons.c:179:6:BTN_Deinit	16	static
+../source/buttons/buttons.c:189:6:BTN_Init	32	static

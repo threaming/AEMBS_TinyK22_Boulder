@@ -1,0 +1,3 @@
+../source/myTasks.c:23:13:BlinkyTask	24	static
+../source/myTasks.c:37:13:mySuicide	24	static
+../source/myTasks.c:63:6:MyTasks_Init	24	static

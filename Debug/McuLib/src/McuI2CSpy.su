@@ -1,0 +1,16 @@
+../McuLib/src/McuI2CSpy.c:88:16:Read	24	static
+../McuLib/src/McuI2CSpy.c:104:16:ReadData	24	static
+../McuLib/src/McuI2CSpy.c:112:13:ScanDevices	24	static
+../McuLib/src/McuI2CSpy.c:138:16:PrintStatus	24	static
+../McuLib/src/McuI2CSpy.c:156:16:PrintHelp	16	static
+../McuLib/src/McuI2CSpy.c:185:9:McuI2CSpy_ParseCommand	80	static
+../McuLib/src/McuI2CSpy.c:283:9:McuI2CSpy_SetDeviceAddress	16	static
+../McuLib/src/McuI2CSpy.c:300:9:McuI2CSpy_GetDeviceAddress	4	static
+../McuLib/src/McuI2CSpy.c:319:9:McuI2CSpy_SetAddressSize	16	static
+../McuLib/src/McuI2CSpy.c:339:9:McuI2CSpy_SetBytesPerLine	16	static
+../McuLib/src/McuI2CSpy.c:356:9:McuI2CSpy_Init	8	static
+../McuLib/src/McuI2CSpy.c:380:6:McuI2CSpy_Deinit	4	static
+../McuLib/src/McuI2CSpy.c:393:6:McuGenericI2C_OnRequestBus	4	static
+../McuLib/src/McuI2CSpy.c:406:6:McuGenericI2C_OnReleaseBus	4	static
+../McuLib/src/McuI2CSpy.c:428:9:McuI2CSpy_ReadRegData	40	static
+../McuLib/src/McuI2CSpy.c:456:9:McuI2CSpy_WriteRegData	40	static

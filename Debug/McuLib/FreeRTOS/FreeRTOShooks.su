@@ -1,0 +1,6 @@
+../McuLib/FreeRTOS/FreeRTOShooks.c:28:6:McuRTOS_vApplicationStackOverflowHook	16	static
+../McuLib/FreeRTOS/FreeRTOShooks.c:58:6:McuRTOS_vApplicationMallocFailedHook	4	static
+../McuLib/FreeRTOS/FreeRTOShooks.c:87:6:McuRTOS_vApplicationTickHook	4	static
+../McuLib/FreeRTOS/FreeRTOShooks.c:104:6:McuRTOS_vApplicationIdleHook	4	static
+../McuLib/FreeRTOS/FreeRTOShooks.c:124:6:McuRTOS_vOnPreSleepProcessing	16	static
+../McuLib/FreeRTOS/FreeRTOShooks.c:160:6:McuRTOS_vOnPostSleepProcessing	16	static

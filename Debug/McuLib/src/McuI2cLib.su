@@ -1,0 +1,10 @@
+C:\Users\andre\OneDrive - Hochschule Luzern\00_Modules\FS23_AEMBS\00_Projects\01_AEMBY_tinyK22\drivers/fsl_port.h:458:20:PORT_SetPinMux	24	static
+C:\Users\andre\OneDrive - Hochschule Luzern\00_Modules\FS23_AEMBS\00_Projects\01_AEMBY_tinyK22\drivers/fsl_i2c.h:436:20:I2C_MasterClearStatusFlags	16	static
+../McuLib/src/McuI2cLib.c:31:9:McuI2cLib_SendBlock	32	static
+../McuLib/src/McuI2cLib.c:72:9:McuI2cLib_RecvBlock	32	static
+../McuLib/src/McuI2cLib.c:100:9:McuI2cLib_SendStop	16	static
+../McuLib/src/McuI2cLib.c:114:9:McuI2cLib_SelectSlave	16	static
+../McuLib/src/McuI2cLib.c:119:13:McuI2cLib_ReleaseBus	40	static
+../McuLib/src/McuI2cLib.c:173:13:McuI2cLib_ConfigureI2cPins	8	static
+../McuLib/src/McuI2cLib.c:189:6:McuI2cLib_Deinit	4	static
+../McuLib/src/McuI2cLib.c:192:6:McuI2cLib_Init	24	static

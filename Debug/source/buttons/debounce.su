@@ -1,0 +1,6 @@
+../source/buttons/debounce.c:32:13:OnDebounceEvent	32	static
+../source/buttons/debounce.c:71:13:vTimerCallbackDebounce	16	static
+../source/buttons/debounce.c:76:6:Debounce_StartDebounce	32	static
+../source/buttons/debounce.c:85:6:Debounce_StartDebounceFromISR	32	static
+../source/buttons/debounce.c:94:6:Debounce_Deinit	4	static
+../source/buttons/debounce.c:98:6:Debounce_Init	16	static

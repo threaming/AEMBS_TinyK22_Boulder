@@ -1,0 +1,5 @@
+../McuLib/LittlevGL/lvgl/src/lv_draw/../lv_core/../lv_font/lv_font.h:110:23:lv_font_get_line_height	16	static
+../McuLib/LittlevGL/lvgl/src/lv_draw/../lv_core/../lv_misc/lv_color.h:378:26:lv_color_make	32	static
+../McuLib/LittlevGL/lvgl/src/lv_draw/../lv_core/../lv_misc/lv_area.h:83:26:lv_area_get_width	16	static
+../McuLib/LittlevGL/lvgl/src/lv_draw/lv_draw_label.c:57:6:lv_draw_label	208	static
+../McuLib/LittlevGL/lvgl/src/lv_draw/lv_draw_label.c:262:16:hex_char_to_num	24	static

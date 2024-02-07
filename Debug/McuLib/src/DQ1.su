@@ -1,0 +1,15 @@
+C:\Users\andre\OneDrive - Hochschule Luzern\00_Modules\FS23_AEMBS\00_Projects\01_AEMBY_tinyK22\drivers/fsl_gpio.h:357:20:GPIO_PortSet	16	static
+C:\Users\andre\OneDrive - Hochschule Luzern\00_Modules\FS23_AEMBS\00_Projects\01_AEMBY_tinyK22\drivers/fsl_gpio.h:372:20:GPIO_PortClear	16	static
+C:\Users\andre\OneDrive - Hochschule Luzern\00_Modules\FS23_AEMBS\00_Projects\01_AEMBY_tinyK22\drivers/fsl_gpio.h:387:20:GPIO_PortToggle	16	static
+C:\Users\andre\OneDrive - Hochschule Luzern\00_Modules\FS23_AEMBS\00_Projects\01_AEMBY_tinyK22\drivers/fsl_gpio.h:410:24:GPIO_PinRead	16	static
+../McuLib/src/DQ1.c:171:6:DQ1_ClrVal	8	static
+../McuLib/src/DQ1.c:200:6:DQ1_SetVal	8	static
+../McuLib/src/DQ1.c:229:6:DQ1_NegVal	8	static
+../McuLib/src/DQ1.c:268:6:DQ1_GetVal	8	static
+../McuLib/src/DQ1.c:301:6:DQ1_GetDir	4	static
+../McuLib/src/DQ1.c:318:6:DQ1_SetDir	16	static
+../McuLib/src/DQ1.c:337:6:DQ1_SetInput	8	static
+../McuLib/src/DQ1.c:367:6:DQ1_SetOutput	8	static
+../McuLib/src/DQ1.c:400:6:DQ1_PutVal	16	static
+../McuLib/src/DQ1.c:441:6:DQ1_Init	8	static
+../McuLib/src/DQ1.c:501:6:DQ1_Deinit	4	static

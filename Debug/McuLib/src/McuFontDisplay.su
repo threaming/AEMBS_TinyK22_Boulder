@@ -1,0 +1,9 @@
+../McuLib/src/McuFontDisplay.c:92:6:McuFontDisplay_WriteChar	40	static
+../McuLib/src/McuFontDisplay.c:174:6:McuFontDisplay_WriteString	40	static
+../McuLib/src/McuFontDisplay.c:218:6:McuFontDisplay_WriteStringWidth	48	static
+../McuLib/src/McuFontDisplay.c:260:6:McuFontDisplay_GetCharWidth	32	static
+../McuLib/src/McuFontDisplay.c:295:25:McuFontDisplay_GetStringWidth	40	static
+../McuLib/src/McuFontDisplay.c:349:6:McuFontDisplay_GetFontHeight	24	static
+../McuLib/src/McuFontDisplay.c:375:25:McuFontDisplay_GetStringHeight	32	static
+../McuLib/src/McuFontDisplay.c:410:6:McuFontDisplay_Deinit	4	static
+../McuLib/src/McuFontDisplay.c:425:6:McuFontDisplay_Init	4	static
